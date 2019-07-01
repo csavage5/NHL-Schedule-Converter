@@ -1,0 +1,2598 @@
+BEGIN:VCALENDAR
+NAME:Vegas Golden Knights
+X-WR-CALNAME:Vegas Golden Knights
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Oilers
+END:VALARM
+DTSTART:20181202T030000Z
+DTEND:20181202T060000Z
+UID:xWogUznCSRlw0jqQDq1vesDk@stanza.co
+SUMMARY:Golden Knights at Oilers (L: 1-2)
+DESCRIPTION:Golden Knights at Oilers\n\nBuy tickets here: https://stza.co/~Cmml?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Place\, Edmonton\, AB\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Capitals
+END:VALARM
+DTSTART:20181205T030000Z
+DTEND:20181205T060000Z
+UID:EEBB-f0VzEm53bX0Dd7nXFyf@stanza.co
+SUMMARY:Golden Knights vs. Capitals (W: 5-3)
+DESCRIPTION:Golden Knights vs. Capitals\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmmn-G
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blackhawks
+END:VALARM
+DTSTART:20181207T030000Z
+DTEND:20181207T060000Z
+UID:IqBQ2U6je8Q5zpBYJjd9secn@stanza.co
+SUMMARY:Golden Knights vs. Blackhawks (W: 4-3)
+DESCRIPTION:Golden Knights vs. Blackhawks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmmp-3n
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Kings
+END:VALARM
+DTSTART:20181208T210000Z
+DTEND:20181209T000000Z
+UID:fpH7Va5UsqxWWLeb1tTrECGB@stanza.co
+SUMMARY:Golden Knights at Kings (L: 1-5)
+DESCRIPTION:Golden Knights at Kings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Stars
+END:VALARM
+DTSTART:20181210T020000Z
+DTEND:20181210T050000Z
+UID:Cswt4vMzpdcq4x1O2qW6V8DG@stanza.co
+SUMMARY:Golden Knights vs. Stars (W: 4-2)
+DESCRIPTION:Golden Knights vs. Stars\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmmr-p
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Islanders
+END:VALARM
+DTSTART:20181213T000000Z
+DTEND:20181213T030000Z
+UID:qVXYh5B1EU_GKlBLVfNahXKm@stanza.co
+SUMMARY:Golden Knights at Islanders (W: 3-2)
+DESCRIPTION:Golden Knights at Islanders\n\nBuy tickets here: https://stza.co/~Cmmt?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Barclays Center\, 620 Atlantic Ave\, Brooklyn\, NY
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Devils
+END:VALARM
+DTSTART:20181215T000000Z
+DTEND:20181215T030000Z
+UID:ScVFDetDBFUr-4KeLzCi1BBf@stanza.co
+SUMMARY:Golden Knights at Devils (L: 4-5)
+DESCRIPTION:Golden Knights at Devils\n\nBuy tickets here: https://stza.co/~Cmmu?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Rangers
+END:VALARM
+DTSTART:20181216T173000Z
+DTEND:20181216T203000Z
+UID:lP2nz4KPidihAIB4eNfCqFy7@stanza.co
+SUMMARY:Golden Knights at Rangers (W: 4-3)
+DESCRIPTION:Golden Knights at Rangers\n\nBuy tickets here: https://stza.co/~Cmmv?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blue Jackets
+END:VALARM
+DTSTART:20181218T000000Z
+DTEND:20181218T030000Z
+UID:adUfJsi1Wrg3eCSc0k85TGLq@stanza.co
+SUMMARY:Golden Knights at Blue Jackets (L: 0-1)
+DESCRIPTION:Golden Knights at Blue Jackets\n\nBuy tickets here: https://stza.co/~Cmmw?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Nationwide Arena\, 200 W Nationwide Blvd\, Columbus\, OH
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Islanders
+END:VALARM
+DTSTART:20181221T030000Z
+DTEND:20181221T060000Z
+UID:yJoc-qgpQTboWEhJSh6KWjsg@stanza.co
+SUMMARY:Golden Knights vs. Islanders (W: 4-2)
+DESCRIPTION:Golden Knights vs. Islanders\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmmy-
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Canadiens
+END:VALARM
+DTSTART:20181222T210000Z
+DTEND:20181223T000000Z
+UID:U4m1jYZjPontvN4Yo1ac4UaF@stanza.co
+SUMMARY:Golden Knights vs. Canadiens (L: 3-4)
+DESCRIPTION:Golden Knights vs. Canadiens\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmmz-2W
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Kings
+END:VALARM
+DTSTART:20181224T010000Z
+DTEND:20181224T040000Z
+UID:f5lHy-yd8qdsvHiSNWgGUo_D@stanza.co
+SUMMARY:Golden Knights vs. Kings (L: 3-4)
+DESCRIPTION:Golden Knights vs. Kings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmB-1q
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Avalanche
+END:VALARM
+DTSTART:20181228T030000Z
+DTEND:20181228T060000Z
+UID:XRle1xgKlL3MCAxW-cbZPKo6@stanza.co
+SUMMARY:Golden Knights vs. Avalanche (W: 2-1)
+DESCRIPTION:Golden Knights vs. Avalanche\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmD-16
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Kings
+END:VALARM
+DTSTART:20181229T210000Z
+DTEND:20181230T000000Z
+UID:9tKnW1QrqVcey87064jONnq6@stanza.co
+SUMMARY:Golden Knights at Kings (W: 4-1)
+DESCRIPTION:Golden Knights at Kings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Coyotes
+END:VALARM
+DTSTART:20181231T010000Z
+DTEND:20181231T040000Z
+UID:-FqJ6dNL0JPRXP5mHVMfFHKM@stanza.co
+SUMMARY:Golden Knights at Coyotes (W: 5-1)
+DESCRIPTION:Golden Knights at Coyotes\n\nBuy tickets here: https://stza.co/~CmmG?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Gila River Arena\, 9400 W Maryland Ave\, Glendale\, AZ
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Kings
+END:VALARM
+DTSTART:20190102T020000Z
+DTEND:20190102T050000Z
+UID:_6Hd_pRNI4IwAIuouRIClPWe@stanza.co
+SUMMARY:Golden Knights vs. Kings (W: 2-0)
+DESCRIPTION:Golden Knights vs. Kings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmH-26
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Ducks
+END:VALARM
+DTSTART:20190105T030000Z
+DTEND:20190105T060000Z
+UID:RNfHZhhNiFOBKLqCRTnKu0Bx@stanza.co
+SUMMARY:Golden Knights at Ducks (W: 3-2)
+DESCRIPTION:Golden Knights at Ducks\n\nBuy tickets here: https://stza.co/~CmmJ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Honda Center\, 2695 E Katella Ave\, Anaheim\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Devils
+END:VALARM
+DTSTART:20190106T210000Z
+DTEND:20190107T000000Z
+UID:xMxqGrcbZOeHg0rdYrsVOGZT@stanza.co
+SUMMARY:Golden Knights vs. Devils (W: 3-2)
+DESCRIPTION:Golden Knights vs. Devils\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmL-1q
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Rangers
+END:VALARM
+DTSTART:20190109T030000Z
+DTEND:20190109T060000Z
+UID:UHAic3BgNmR6Ct8jCUTpk6ie@stanza.co
+SUMMARY:Golden Knights vs. Rangers (W: 4-2)
+DESCRIPTION:Golden Knights vs. Rangers\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmM-2S
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20190111T030000Z
+DTEND:20190111T060000Z
+UID:7nBHcwj7XLc5Y6hTOJRwgZZ7@stanza.co
+SUMMARY:Golden Knights vs. Sharks (L: 2-3)
+DESCRIPTION:Golden Knights vs. Sharks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmO-B
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blackhawks
+END:VALARM
+DTSTART:20190113T013000Z
+DTEND:20190113T043000Z
+UID:KrI8-Qc1TSSUqnaYwf9v2o_1@stanza.co
+SUMMARY:Golden Knights at Blackhawks (W: 4-3)
+DESCRIPTION:Golden Knights at Blackhawks\n\nBuy tickets here: https://stza.co/~CmmQ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Jets
+END:VALARM
+DTSTART:20190116T010000Z
+DTEND:20190116T040000Z
+UID:dxpTXDwVVvxAd8rnJ407MwRl@stanza.co
+SUMMARY:Golden Knights at Jets (L: 1-4)
+DESCRIPTION:Golden Knights at Jets\n\nBuy tickets here: https://stza.co/~CmmR?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Bell MTS Place
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Penguins
+END:VALARM
+DTSTART:20190120T030000Z
+DTEND:20190120T060000Z
+UID:czKjOXbasYSh-VNcnhiR1CpW@stanza.co
+SUMMARY:Golden Knights vs. Penguins (W: 7-3)
+DESCRIPTION:Golden Knights vs. Penguins\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmT-1M
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Wild
+END:VALARM
+DTSTART:20190121T230000Z
+DTEND:20190122T020000Z
+UID:YeLRrK3xRI-DPesD6YcQir_R@stanza.co
+SUMMARY:Golden Knights vs. Wild (L: 2-4)
+DESCRIPTION:Golden Knights vs. Wild\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmU-E
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Predators
+END:VALARM
+DTSTART:20190124T030000Z
+DTEND:20190124T060000Z
+UID:wD-BLmeRqsx_xkuTz8ud6Exc@stanza.co
+SUMMARY:Golden Knights vs. Predators (L: 1-2)
+DESCRIPTION:Golden Knights vs. Predators\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+CmmW-5
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Hurricanes
+END:VALARM
+DTSTART:20190202T003000Z
+DTEND:20190202T033000Z
+UID:PW0NlaPsnY6n028FiXHbtJxm@stanza.co
+SUMMARY:Golden Knights at Hurricanes (L: 2-5)
+DESCRIPTION:Golden Knights at Hurricanes\n\nBuy tickets here: https://stza.co/~CmmY?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:PNC Arena\, 1400 Edwards Mill Rd\, Raleigh\, NC
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Panthers
+END:VALARM
+DTSTART:20190203T000000Z
+DTEND:20190203T030000Z
+UID:NvyvSjJyUkl3Jrr1Q-Z8BfND@stanza.co
+SUMMARY:Golden Knights at Panthers (L: 1-3)
+DESCRIPTION:Golden Knights at Panthers\n\nBuy tickets here: https://stza.co/~CmmZ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:BB&T Center\, 1 Panther Pkwy\, Sunrise\, FL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Lightning
+END:VALARM
+DTSTART:20190206T003000Z
+DTEND:20190206T033000Z
+UID:2Qt1aHCb-3N3lZ3KIl8br9_A@stanza.co
+SUMMARY:Golden Knights at Lightning (W: 3-2)
+DESCRIPTION:Golden Knights at Lightning\n\nBuy tickets here: https://stza.co/~Cmm_?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Amalie Arena\, 401 Channelside Dr\, Tampa\, FL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Red Wings
+END:VALARM
+DTSTART:20190208T003000Z
+DTEND:20190208T033000Z
+UID:5Y215kskw_kkWpE66LgK5TFZ@stanza.co
+SUMMARY:Golden Knights at Red Wings (W: 4-3)
+DESCRIPTION:Golden Knights at Red Wings\n\nBuy tickets here: https://stza.co/~Cmm$?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Little Caesars Arena\, 2645 Woodward Avenue\, Detroit\, MI
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blue Jackets
+END:VALARM
+DTSTART:20190210T030000Z
+DTEND:20190210T060000Z
+UID:rqTGgEmTgqAMxKZTqnAzPgA8@stanza.co
+SUMMARY:Golden Knights vs. Blue Jackets (L: 3-4)
+DESCRIPTION:Golden Knights vs. Blue Jackets\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmn0-2n
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Coyotes
+END:VALARM
+DTSTART:20190213T030000Z
+DTEND:20190213T060000Z
+UID:vJyGe8ind4GyKyht170kPQEO@stanza.co
+SUMMARY:Golden Knights vs. Coyotes (L: 2-5)
+DESCRIPTION:Golden Knights vs. Coyotes\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for tonight's game! Click here to grab seats https://stza.co/+Cmn3-2f
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Maple Leafs
+END:VALARM
+DTSTART:20190215T030000Z
+DTEND:20190215T060000Z
+UID:raZVtFJLvLcStdTxUY9MCiUs@stanza.co
+SUMMARY:Golden Knights vs. Maple Leafs (L: 3-6)
+DESCRIPTION:Golden Knights vs. Maple Leafs\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Last minute tickets are still available for tonight's game! Click to purchase https://stza.co/+Cmn5-D
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Predators
+END:VALARM
+DTSTART:20190217T030000Z
+DTEND:20190217T060000Z
+UID:w96SP5Exq3a4bsvSg3rOvxs6@stanza.co
+SUMMARY:Golden Knights vs. Predators (W: 5-1)
+DESCRIPTION:Golden Knights vs. Predators\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:No plans tonight? Click to find last minute tickets to the game https://stza.co/+Cmn6-12
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Avalanche
+END:VALARM
+DTSTART:20190219T020000Z
+DTEND:20190219T050000Z
+UID:mnLytIzMWZbxfiHFHsY8qruZ@stanza.co
+SUMMARY:Golden Knights at Avalanche (L: 0-3)
+DESCRIPTION:Golden Knights at Avalanche\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Pepsi Center\, 1000 Chopper Cir\, Denver\, CO
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Bruins
+END:VALARM
+DTSTART:20190221T030000Z
+DTEND:20190221T060000Z
+UID:6xkc2lzHz7-7wStxnBXa3ntY@stanza.co
+SUMMARY:Golden Knights vs. Bruins (L: 2-3)
+DESCRIPTION:Golden Knights vs. Bruins\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmna-11
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Jets
+END:VALARM
+DTSTART:20190223T030000Z
+DTEND:20190223T060000Z
+UID:TJgEO7CmxRYaK5aH9kwMPJV9@stanza.co
+SUMMARY:Golden Knights vs. Jets (L: 3-6)
+DESCRIPTION:Golden Knights vs. Jets\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmnb-1h
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Stars
+END:VALARM
+DTSTART:20190227T030000Z
+DTEND:20190227T060000Z
+UID:ZwRB76uuXQE23U8328IQglkw@stanza.co
+SUMMARY:Golden Knights vs. Stars (W: 4-1)
+DESCRIPTION:Golden Knights vs. Stars\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for tonight's game! Click here to grab seats https://stza.co/+Cmne-3I
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Panthers
+END:VALARM
+DTSTART:20190301T030000Z
+DTEND:20190301T060000Z
+UID:XTvRncc-yhUj_oyTjaDFPvft@stanza.co
+SUMMARY:Golden Knights vs. Panthers (W: 6-5)
+DESCRIPTION:Golden Knights vs. Panthers\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Last minute tickets are still available for tonight's game! Click to purchase https://stza.co/+Cmng-B
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Ducks
+END:VALARM
+DTSTART:20190302T030000Z
+DTEND:20190302T060000Z
+UID:o2ND8Fhpyzcr3qOEd8dZcT-h@stanza.co
+SUMMARY:Golden Knights at Ducks (W: 3-0)
+DESCRIPTION:Golden Knights at Ducks\n\nBuy tickets here: https://stza.co/~Cmnh?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Honda Center\, 2695 E Katella Ave\, Anaheim\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Canucks
+END:VALARM
+DTSTART:20190303T210000Z
+DTEND:20190304T000000Z
+UID:GX-7gsZNJU5GeID6ybMcID12@stanza.co
+SUMMARY:Golden Knights vs. Canucks (W: 3-0)
+DESCRIPTION:Golden Knights vs. Canucks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmni-c
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Flames
+END:VALARM
+DTSTART:20190307T033000Z
+DTEND:20190307T063000Z
+UID:Hm-76HpIllgRNzUP54lAX5uj@stanza.co
+SUMMARY:Golden Knights vs. Flames (W: 2-1)
+DESCRIPTION:Golden Knights vs. Flames\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for tonight's game! Click here to grab seats https://stza.co/+Cmnk-3W
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Canucks
+END:VALARM
+DTSTART:20190310T030000Z
+DTEND:20190310T060000Z
+UID:s9VQCvSxpmqjZqS894JNek8n@stanza.co
+SUMMARY:Golden Knights at Canucks (W: 6-2)
+DESCRIPTION:Golden Knights at Canucks\n\nBuy tickets here: https://stza.co/~Cmnm?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Arena\, 800 Griffiths Way\, Vancouver\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Flames
+END:VALARM
+DTSTART:20190311T013000Z
+DTEND:20190311T043000Z
+UID:u7oxgZ9tdqD1xPai1_BRrK0L@stanza.co
+SUMMARY:Golden Knights at Flames (L: 3-6)
+DESCRIPTION:Golden Knights at Flames\n\nBuy tickets here: https://stza.co/~Cmnn?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Scotiabank Saddledome\, 555 Saddledome Rise SE\, Calgary\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Stars
+END:VALARM
+DTSTART:20190316T000000Z
+DTEND:20190316T030000Z
+UID:pPjxfYnLAO-86JX0NQlSGw8n@stanza.co
+SUMMARY:Golden Knights at Stars (W: 2-1)
+DESCRIPTION:Golden Knights at Stars\n\nBuy tickets here: https://stza.co/~Cmno?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Oilers
+END:VALARM
+DTSTART:20190318T020000Z
+DTEND:20190318T050000Z
+UID:oQFNq8WnjmFV8EMRj8gVIn3A@stanza.co
+SUMMARY:Golden Knights vs. Oilers (W: 6-3)
+DESCRIPTION:Golden Knights vs. Oilers\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for tonight's game! Click here to grab seats https://stza.co/+Cmnq-1Q
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190319T023000Z
+DTEND:20190319T053000Z
+UID:hshJACyy1QBUuoZueCFHLnBa@stanza.co
+SUMMARY:Golden Knights at Sharks (W: 7-3)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~Cmnr?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Jets
+END:VALARM
+DTSTART:20190322T020000Z
+DTEND:20190322T050000Z
+UID:kg6HcQBL-csx-nd5W5_Dr95T@stanza.co
+SUMMARY:Golden Knights vs. Jets (W: 5-0)
+DESCRIPTION:Golden Knights vs. Jets\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Last minute tickets are still available for tonight's game! Click to purchase https://stza.co/+Cmnt-U
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Red Wings
+END:VALARM
+DTSTART:20190324T020000Z
+DTEND:20190324T050000Z
+UID:8_Ai9kXZms4EXveDB55wBJZf@stanza.co
+SUMMARY:Golden Knights vs. Red Wings (L: 2-3)
+DESCRIPTION:Golden Knights vs. Red Wings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:No plans tonight? Click to find last minute tickets to the game https://stza.co/+Cmnv-3n
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blues
+END:VALARM
+DTSTART:20190326T000000Z
+DTEND:20190326T030000Z
+UID:fMFrKLpEdwnJTwbX0xTqOOOQ@stanza.co
+SUMMARY:Golden Knights at Blues (L: 1-3)
+DESCRIPTION:Golden Knights at Blues\n\nBuy tickets here: https://stza.co/~Cmnw?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Enterprise Center
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Avalanche
+END:VALARM
+DTSTART:20190328T020000Z
+DTEND:20190328T050000Z
+UID:XN9fD_2owYiEp0tH1d33x6nR@stanza.co
+SUMMARY:Golden Knights at Avalanche (L: 3-4)
+DESCRIPTION:Golden Knights at Avalanche\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Pepsi Center\, 1000 Chopper Cir\, Denver\, CO
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Wild
+END:VALARM
+DTSTART:20190330T020000Z
+DTEND:20190330T050000Z
+UID:zjTUv-2g0vxq9cMsXBRIjeA4@stanza.co
+SUMMARY:Golden Knights vs. Wild (L: 2-3)
+DESCRIPTION:Golden Knights vs. Wild\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for the upcoming game! Click to be there https://stza.co/+Cmnz-S
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190331T010000Z
+DTEND:20190331T040000Z
+UID:Zsq_ZvmjJ012lw2w0Wg7f3Jb@stanza.co
+SUMMARY:Golden Knights at Sharks (L: 3-4)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~CmnA?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Oilers
+END:VALARM
+DTSTART:20190402T020000Z
+DTEND:20190402T050000Z
+UID:9ADEPBtqVUlpUf7Wp5F4kcpb@stanza.co
+SUMMARY:Golden Knights vs. Oilers (W: 3-1)
+DESCRIPTION:Golden Knights vs. Oilers\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for tonight's game! Click here to grab seats https://stza.co/+CmnC-3A
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Coyotes
+END:VALARM
+DTSTART:20190405T020000Z
+DTEND:20190405T050000Z
+UID:d4VwwoKqWoVREOKeenAhn8v5@stanza.co
+SUMMARY:Golden Knights vs. Coyotes (L: 1-4)
+DESCRIPTION:Golden Knights vs. Coyotes\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Last minute tickets are still available for tonight's game! Click to purchase https://stza.co/+CmnE-1R
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Kings
+END:VALARM
+DTSTART:20190407T023000Z
+DTEND:20190407T053000Z
+UID:7HAoDyxiXLlm3KHW36MwRsfI@stanza.co
+SUMMARY:Golden Knights at Kings (L: 2-5)
+DESCRIPTION:Golden Knights at Kings\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190411T023000Z
+DTEND:20190411T053000Z
+UID:avOhbjgxeAotC6klDMj145JU@stanza.co
+SUMMARY:Golden Knights at Sharks (L: 2-5)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~EJ9f?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190413T023000Z
+DTEND:20190413T053000Z
+UID:mMxeXJt6FXUOAQX99SYj8lhr@stanza.co
+SUMMARY:Golden Knights at Sharks (W: 5-3)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~EJ9g?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20190415T020000Z
+DTEND:20190415T050000Z
+UID:gCJqaXIdXqmYwJvWm0-96oqr@stanza.co
+SUMMARY:Golden Knights vs. Sharks (W: 6-3)
+DESCRIPTION:Golden Knights vs. Sharks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20190417T023000Z
+DTEND:20190417T053000Z
+UID:GzFEKwj7mk4-CSYAhYKhlozG@stanza.co
+SUMMARY:Golden Knights vs. Sharks (W: 5-0)
+DESCRIPTION:Golden Knights vs. Sharks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190419T020000Z
+DTEND:20190419T050000Z
+UID:fWMgKGa-aHOcCnlBe904x6Zw@stanza.co
+SUMMARY:Golden Knights at Sharks (L: 2-5)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~F0Jr?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20190421T230000Z
+DTEND:20190422T020000Z
+UID:xAJfiqa1ma3bioKdzh7uST5n@stanza.co
+SUMMARY:Golden Knights vs. Sharks (L: 1-2)
+DESCRIPTION:Golden Knights vs. Sharks\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20190424T020000Z
+DTEND:20190424T050000Z
+UID:aUspBHNAuNa6W1t8sT4-0hKh@stanza.co
+SUMMARY:Golden Knights at Sharks (L: 4-5)
+DESCRIPTION:Golden Knights at Sharks\n\nBuy tickets here: https://stza.co/~F39A?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20191003T023000Z
+DTEND:20191003T053000Z
+UID:p03D-1rfrm3zrkUCJI2DHv9j@stanza.co
+SUMMARY:Golden Knights vs. Sharks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20191005T023000Z
+DTEND:20191005T053000Z
+UID:MUPFAdJfpZUBJVo6M0luxFda@stanza.co
+SUMMARY:Golden Knights at Sharks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC5?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Bruins
+END:VALARM
+DTSTART:20191009T020000Z
+DTEND:20191009T050000Z
+UID:8xjKmdSu7KlkXFKbpShRfrvg@stanza.co
+SUMMARY:Golden Knights vs. Bruins
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Coyotes
+END:VALARM
+DTSTART:20191011T020000Z
+DTEND:20191011T050000Z
+UID:7-fSciSI_Qe4-HH0m5F63Dwb@stanza.co
+SUMMARY:Golden Knights at Coyotes
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQJR?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Gila River Arena\, 9400 W Maryland Ave\, Glendale\, AZ
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Flames
+END:VALARM
+DTSTART:20191013T020000Z
+DTEND:20191013T050000Z
+UID:CGxSW9E0MUuIOgfW8bLEg9cS@stanza.co
+SUMMARY:Golden Knights vs. Flames
+DESCRIPTION:Go Golden Knights!\nWatch live on HNIC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Kings
+END:VALARM
+DTSTART:20191014T020000Z
+DTEND:20191014T050000Z
+UID:_-0F2Cj0j6X3LVP6A5SsEYzb@stanza.co
+SUMMARY:Golden Knights at Kings
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Predators
+END:VALARM
+DTSTART:20191016T020000Z
+DTEND:20191016T050000Z
+UID:luYzCRzj-MDFwDY8Pu3R4Ers@stanza.co
+SUMMARY:Golden Knights vs. Predators
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Senators
+END:VALARM
+DTSTART:20191018T020000Z
+DTEND:20191018T050000Z
+UID:WyEGyqk-HzUngMr-Jbc79N0s@stanza.co
+SUMMARY:Golden Knights vs. Senators
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Penguins
+END:VALARM
+DTSTART:20191019T230000Z
+DTEND:20191020T020000Z
+UID:7l35aYZJp9Gz3A7_YzbIYeZF@stanza.co
+SUMMARY:Golden Knights at Penguins
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQB$?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave\, Pittsburgh\, PA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Flyers
+END:VALARM
+DTSTART:20191021T230000Z
+DTEND:20191022T020000Z
+UID:h5ra4tdSsLvKK5Q7n15E9v4A@stanza.co
+SUMMARY:Golden Knights at Flyers
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZS?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Wells Fargo Center\, 3601 S Broad St\, Philadelphia\, PA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blackhawks
+END:VALARM
+DTSTART:20191023T003000Z
+DTEND:20191023T033000Z
+UID:PeLvFPODZNrdL2QX3UWFUc_0@stanza.co
+SUMMARY:Golden Knights at Blackhawks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC7?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Avalanche
+END:VALARM
+DTSTART:20191025T220000Z
+DTEND:20191026T010000Z
+UID:kLa9uI311Fo75mH9BQt3t46o@stanza.co
+SUMMARY:Golden Knights vs. Avalanche
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Ducks
+END:VALARM
+DTSTART:20191028T000000Z
+DTEND:20191028T030000Z
+UID:PI89WQLQPsOMZjyUDHyS7xGD@stanza.co
+SUMMARY:Golden Knights vs. Ducks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Canadiens
+END:VALARM
+DTSTART:20191101T020000Z
+DTEND:20191101T050000Z
+UID:9qsSZXauzjm626zF28BqnTnA@stanza.co
+SUMMARY:Golden Knights vs. Canadiens
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Jets
+END:VALARM
+DTSTART:20191103T020000Z
+DTEND:20191103T050000Z
+UID:isRZnD0r28r1GDGLoOEvgGKa@stanza.co
+SUMMARY:Golden Knights vs. Jets
+DESCRIPTION:Go Golden Knights!\nWatch live on HNIC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blue Jackets
+END:VALARM
+DTSTART:20191106T000000Z
+DTEND:20191106T030000Z
+UID:xnjUUjZkoBzsUklZn92ADllK@stanza.co
+SUMMARY:Golden Knights at Blue Jackets
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZZ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Nationwide Arena\, 200 W Nationwide Blvd\, Columbus\, OH
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Maple Leafs
+END:VALARM
+DTSTART:20191108T000000Z
+DTEND:20191108T030000Z
+UID:v2X8lgKE3n0MmhbEeZqGQ6-g@stanza.co
+SUMMARY:Golden Knights at Maple Leafs
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZQ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Scotiabank Arena
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Capitals
+END:VALARM
+DTSTART:20191110T000000Z
+DTEND:20191110T030000Z
+UID:dqFNTqF-rC3X_cM3VbIe6AQ5@stanza.co
+SUMMARY:Golden Knights at Capitals
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC2?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Capital One Arena
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Red Wings
+END:VALARM
+DTSTART:20191110T220000Z
+DTEND:20191111T010000Z
+UID:mEnEt-xuc3LlvsrxvnwD0qxd@stanza.co
+SUMMARY:Golden Knights at Red Wings
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC0?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Little Caesars Arena\, 2645 Woodward Avenue\, Detroit\, MI
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blackhawks
+END:VALARM
+DTSTART:20191114T030000Z
+DTEND:20191114T060000Z
+UID:ymxjrkcHQ4U2mJC2FQaS0Sqx@stanza.co
+SUMMARY:Golden Knights vs. Blackhawks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Kings
+END:VALARM
+DTSTART:20191117T030000Z
+DTEND:20191117T060000Z
+UID:Uur--QiuKOdvY8GcK2iJLeEH@stanza.co
+SUMMARY:Golden Knights at Kings
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Flames
+END:VALARM
+DTSTART:20191118T010000Z
+DTEND:20191118T040000Z
+UID:kMnsn5JlQxY8cw935XF_yTcZ@stanza.co
+SUMMARY:Golden Knights vs. Flames
+DESCRIPTION:Go Golden Knights!\nWatch live on SN\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Maple Leafs
+END:VALARM
+DTSTART:20191120T030000Z
+DTEND:20191120T060000Z
+UID:hbg7IpTgZcP3OouPsVbiBij9@stanza.co
+SUMMARY:Golden Knights vs. Maple Leafs
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sharks
+END:VALARM
+DTSTART:20191122T030000Z
+DTEND:20191122T060000Z
+UID:1JAYZwv4CD4-Ym4BtTjOPCRF@stanza.co
+SUMMARY:Golden Knights vs. Sharks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Oilers
+END:VALARM
+DTSTART:20191124T030000Z
+DTEND:20191124T060000Z
+UID:KDm_gEMynkHNbAU9AoBn_YnP@stanza.co
+SUMMARY:Golden Knights vs. Oilers
+DESCRIPTION:Go Golden Knights!\nWatch live on HNIC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Stars
+END:VALARM
+DTSTART:20191126T013000Z
+DTEND:20191126T043000Z
+UID:st9YEtqpjPXk_0P8TfiTfSIi@stanza.co
+SUMMARY:Golden Knights at Stars
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC3?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Predators
+END:VALARM
+DTSTART:20191128T010000Z
+DTEND:20191128T040000Z
+UID:Pv6H1Nn5Lk6dC7BwqLh6-ohe@stanza.co
+SUMMARY:Golden Knights at Predators
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC9?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Bridgestone Arena\, 501 Broadway\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Coyotes
+END:VALARM
+DTSTART:20191129T230000Z
+DTEND:20191130T020000Z
+UID:NGR7YdoBAu_Ak6pdMdnJJtRn@stanza.co
+SUMMARY:Golden Knights vs. Coyotes
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Rangers
+END:VALARM
+DTSTART:20191203T000000Z
+DTEND:20191203T030000Z
+UID:L3siu2SoCIqdwJnbUXuEDc-z@stanza.co
+SUMMARY:Golden Knights at Rangers
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZO?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Devils
+END:VALARM
+DTSTART:20191204T000000Z
+DTEND:20191204T030000Z
+UID:fyaYZkiyehdJSSvmQozgpZI-@stanza.co
+SUMMARY:Golden Knights at Devils
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC8?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Islanders
+END:VALARM
+DTSTART:20191206T000000Z
+DTEND:20191206T030000Z
+UID:8SSmf6ZE7fsh4CVKK8BYEi0U@stanza.co
+SUMMARY:Golden Knights at Islanders
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZ$?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Rangers
+END:VALARM
+DTSTART:20191209T000000Z
+DTEND:20191209T030000Z
+UID:hcOFt5_owqXWRFwGju6iDTWJ@stanza.co
+SUMMARY:Golden Knights vs. Rangers
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blackhawks
+END:VALARM
+DTSTART:20191211T030000Z
+DTEND:20191211T060000Z
+UID:SGclsDnieY3TS4DKE02KQZn0@stanza.co
+SUMMARY:Golden Knights vs. Blackhawks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Blues
+END:VALARM
+DTSTART:20191213T010000Z
+DTEND:20191213T040000Z
+UID:yDVjl6dmdnz82ADWuAj-oKvG@stanza.co
+SUMMARY:Golden Knights at Blues
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZV?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Enterprise Center
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Stars
+END:VALARM
+DTSTART:20191214T010000Z
+DTEND:20191214T040000Z
+UID:8N0Z_94QjjD1uOhD4IrSZrdX@stanza.co
+SUMMARY:Golden Knights at Stars
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQ84?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Canucks
+END:VALARM
+DTSTART:20191216T010000Z
+DTEND:20191216T040000Z
+UID:4II1zKYTKsXVmuuaf1y0qc4V@stanza.co
+SUMMARY:Golden Knights vs. Canucks
+DESCRIPTION:Go Golden Knights!\nWatch live on SN\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Wild
+END:VALARM
+DTSTART:20191218T030000Z
+DTEND:20191218T060000Z
+UID:S26-CWEJ7uJNla83jPu9QCSM@stanza.co
+SUMMARY:Golden Knights vs. Wild
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Canucks
+END:VALARM
+DTSTART:20191220T030000Z
+DTEND:20191220T060000Z
+UID:oRol0V6uF75DdcFT18nwbRPw@stanza.co
+SUMMARY:Golden Knights at Canucks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZR?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Arena\, 800 Griffiths Way\, Vancouver\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sharks
+END:VALARM
+DTSTART:20191223T030000Z
+DTEND:20191223T060000Z
+UID:EPY0w4FYXnoD679B9mvYHcQi@stanza.co
+SUMMARY:Golden Knights at Sharks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQ86?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Avalanche
+END:VALARM
+DTSTART:20191224T030000Z
+DTEND:20191224T060000Z
+UID:WB5JcWnvc-VtK8HGSoJeoezd@stanza.co
+SUMMARY:Golden Knights vs. Avalanche
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Ducks
+END:VALARM
+DTSTART:20191228T030000Z
+DTEND:20191228T060000Z
+UID:PAEXo2AqjOfmZMihPRg35TlI@stanza.co
+SUMMARY:Golden Knights at Ducks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZM?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Honda Center\, 2695 E Katella Ave\, Anaheim\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Coyotes
+END:VALARM
+DTSTART:20191229T030000Z
+DTEND:20191229T060000Z
+UID:aARWjREtWa1ckSOHwBz5S1-p@stanza.co
+SUMMARY:Golden Knights vs. Coyotes
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Ducks
+END:VALARM
+DTSTART:20191231T200000Z
+DTEND:20191231T230000Z
+UID:14he5idZdTk3-_H7Ve0rihaU@stanza.co
+SUMMARY:Golden Knights vs. Ducks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Flyers
+END:VALARM
+DTSTART:20200103T030000Z
+DTEND:20200103T060000Z
+UID:uljt4a8GdIKGYjz1CB8Ga-7R@stanza.co
+SUMMARY:Golden Knights vs. Flyers
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blues
+END:VALARM
+DTSTART:20200104T210000Z
+DTEND:20200105T000000Z
+UID:qhEu27i44EzbujehXpsJBRqu@stanza.co
+SUMMARY:Golden Knights vs. Blues
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Penguins
+END:VALARM
+DTSTART:20200108T030000Z
+DTEND:20200108T060000Z
+UID:xkE__xFQ0mwXIIswKTSex7pU@stanza.co
+SUMMARY:Golden Knights vs. Penguins
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Kings
+END:VALARM
+DTSTART:20200110T030000Z
+DTEND:20200110T060000Z
+UID:x0FbEvHAfk5C6XEyzHHLY7io@stanza.co
+SUMMARY:Golden Knights vs. Kings
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blue Jackets
+END:VALARM
+DTSTART:20200112T030000Z
+DTEND:20200112T060000Z
+UID:eOVkU9iR1Zj-06ongi4zFppa@stanza.co
+SUMMARY:Golden Knights vs. Blue Jackets
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Sabres
+END:VALARM
+DTSTART:20200115T000000Z
+DTEND:20200115T030000Z
+UID:NOjW0dWPL8OqhjV7J2LKyNQ8@stanza.co
+SUMMARY:Golden Knights at Sabres
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZK?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:KeyBank Center\, 1 Seymour H Knox III Plaza\, Buffalo\, NY
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Senators
+END:VALARM
+DTSTART:20200117T003000Z
+DTEND:20200117T033000Z
+UID:csHQJNHWeD8R9Of6d7QSL_K6@stanza.co
+SUMMARY:Golden Knights at Senators
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZP?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Canadian Tire Centre\, 1000 Palladium Dr\, Ottawa\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Canadiens
+END:VALARM
+DTSTART:20200119T000000Z
+DTEND:20200119T030000Z
+UID:0vw3unC0yfQysm5Hug-9Vaw6@stanza.co
+SUMMARY:Golden Knights at Canadiens
+DESCRIPTION:Go Golden Knights!\nWatch live on HNIC\n\nBuy tickets here: https://stza.co/~FQ_0?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Bruins
+END:VALARM
+DTSTART:20200122T000000Z
+DTEND:20200122T030000Z
+UID:pmD719T921nQYj-80y6evrYJ@stanza.co
+SUMMARY:Golden Knights at Bruins
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC4?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Hurricanes
+END:VALARM
+DTSTART:20200201T003000Z
+DTEND:20200201T033000Z
+UID:LvH_VYDHsk-AB6z7ZIbHHPNJ@stanza.co
+SUMMARY:Golden Knights at Hurricanes
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZN?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:PNC Arena\, 1400 Edwards Mill Rd\, Raleigh\, NC
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Predators
+END:VALARM
+DTSTART:20200202T010000Z
+DTEND:20200202T040000Z
+UID:GmomhWgUeTBazGU7n4cbuhp0@stanza.co
+SUMMARY:Golden Knights at Predators
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQ85?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Bridgestone Arena\, 501 Broadway\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Lightning
+END:VALARM
+DTSTART:20200205T000000Z
+DTEND:20200205T030000Z
+UID:-8Lo2786aaKNatcvRRO1HGIg@stanza.co
+SUMMARY:Golden Knights at Lightning
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQ_1?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Amalie Arena\, 401 Channelside Dr\, Tampa\, FL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Panthers
+END:VALARM
+DTSTART:20200207T000000Z
+DTEND:20200207T030000Z
+UID:A2KlXXolSP-YaWYeoqG_Fg-a@stanza.co
+SUMMARY:Golden Knights at Panthers
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZW?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:BB&T Center\, 1 Panther Pkwy\, Sunrise\, FL
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Hurricanes
+END:VALARM
+DTSTART:20200209T030000Z
+DTEND:20200209T060000Z
+UID:9MUcWsIREyOMS48rjcVGVfrm@stanza.co
+SUMMARY:Golden Knights vs. Hurricanes
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Wild
+END:VALARM
+DTSTART:20200212T010000Z
+DTEND:20200212T040000Z
+UID:oNTSZ2SdXQaEZ9zWP-uNrJ2p@stanza.co
+SUMMARY:Golden Knights at Wild
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC6?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Xcel Energy Center\, 199 W Kellogg Blvd\, St Paul\, MN
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Blues
+END:VALARM
+DTSTART:20200214T030000Z
+DTEND:20200214T060000Z
+UID:AOohnz68utPzwGm40VZvGLVx@stanza.co
+SUMMARY:Golden Knights vs. Blues
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Islanders
+END:VALARM
+DTSTART:20200216T033000Z
+DTEND:20200216T063000Z
+UID:KZb9mvJmwrIkWT_mZ-bCp0KV@stanza.co
+SUMMARY:Golden Knights vs. Islanders
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Capitals
+END:VALARM
+DTSTART:20200217T230000Z
+DTEND:20200218T020000Z
+UID:OIMr_yxbagfSV6SW7bCH_MUA@stanza.co
+SUMMARY:Golden Knights vs. Capitals
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Lightning
+END:VALARM
+DTSTART:20200221T030000Z
+DTEND:20200221T060000Z
+UID:sbh9JA42VIPaB_gz4Vo_3CzQ@stanza.co
+SUMMARY:Golden Knights vs. Lightning
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Panthers
+END:VALARM
+DTSTART:20200223T030000Z
+DTEND:20200223T060000Z
+UID:jB8qjdFcbrBLfCX0E9i7hVuX@stanza.co
+SUMMARY:Golden Knights vs. Panthers
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Ducks
+END:VALARM
+DTSTART:20200224T030000Z
+DTEND:20200224T060000Z
+UID:xBC2kykQ_FG3CgeyQTtYOQXi@stanza.co
+SUMMARY:Golden Knights at Ducks
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZX?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Honda Center\, 2695 E Katella Ave\, Anaheim\, CA
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Oilers
+END:VALARM
+DTSTART:20200227T033000Z
+DTEND:20200227T063000Z
+UID:_nyvpbGXm_pEcUN7tx1iBM-V@stanza.co
+SUMMARY:Golden Knights vs. Oilers
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Sabres
+END:VALARM
+DTSTART:20200229T030000Z
+DTEND:20200229T060000Z
+UID:3vvescpxt_YelAJDiyFGompA@stanza.co
+SUMMARY:Golden Knights vs. Sabres
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Kings
+END:VALARM
+DTSTART:20200302T033000Z
+DTEND:20200302T063000Z
+UID:6MTPZWH1MFXlUCqeEvHoRYX9@stanza.co
+SUMMARY:Golden Knights vs. Kings
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Devils
+END:VALARM
+DTSTART:20200304T030000Z
+DTEND:20200304T060000Z
+UID:nBWpS21kH2Y96SzYtECRCffx@stanza.co
+SUMMARY:Golden Knights vs. Devils
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Jets
+END:VALARM
+DTSTART:20200307T010000Z
+DTEND:20200307T040000Z
+UID:TLJmG_QrAagj3N6xq8L3mYbV@stanza.co
+SUMMARY:Golden Knights at Jets
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZU?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Bell MTS Place
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Flames
+END:VALARM
+DTSTART:20200308T230000Z
+DTEND:20200309T020000Z
+UID:7ahPBZEbV13oLAf489Czog6f@stanza.co
+SUMMARY:Golden Knights at Flames
+DESCRIPTION:Go Golden Knights!\nWatch live on SN\n\nBuy tickets here: https://stza.co/~FQZL?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Scotiabank Saddledome\, 555 Saddledome Rise SE\, Calgary\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Oilers
+END:VALARM
+DTSTART:20200310T010000Z
+DTEND:20200310T040000Z
+UID:l8ysgN6un_itrMBDEFa6WxFs@stanza.co
+SUMMARY:Golden Knights at Oilers
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZ_?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Place\, Edmonton\, AB\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Wild
+END:VALARM
+DTSTART:20200313T000000Z
+DTEND:20200313T030000Z
+UID:62peP7NGKlvz8U6hxLP2Ckgl@stanza.co
+SUMMARY:Golden Knights at Wild
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQC1?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Xcel Energy Center\, 199 W Kellogg Blvd\, St Paul\, MN
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Avalanche
+END:VALARM
+DTSTART:20200315T190000Z
+DTEND:20200315T220000Z
+UID:1X5c38Zc5_gUO_K2fHuPhaqM@stanza.co
+SUMMARY:Golden Knights at Avalanche
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZI?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Pepsi Center\, 1000 Chopper Cir\, Denver\, CO
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Stars
+END:VALARM
+DTSTART:20200318T020000Z
+DTEND:20200318T050000Z
+UID:gdYjagQgitXTTOohyUwgX4E_@stanza.co
+SUMMARY:Golden Knights vs. Stars
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Coyotes
+END:VALARM
+DTSTART:20200319T020000Z
+DTEND:20200319T050000Z
+UID:wSQw9AMPPhDu8tUieeZgZD20@stanza.co
+SUMMARY:Golden Knights at Coyotes
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQJS?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Gila River Arena\, 9400 W Maryland Ave\, Glendale\, AZ
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Red Wings
+END:VALARM
+DTSTART:20200322T020000Z
+DTEND:20200322T050000Z
+UID:YbrapSGbVUZZZJ60AEOob7sT@stanza.co
+SUMMARY:Golden Knights vs. Red Wings
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Canucks
+END:VALARM
+DTSTART:20200324T020000Z
+DTEND:20200324T050000Z
+UID:hm-fmPy8LG4RLxzhrqRfY5eZ@stanza.co
+SUMMARY:Golden Knights vs. Canucks
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights vs. Coyotes
+END:VALARM
+DTSTART:20200326T023000Z
+DTEND:20200326T053000Z
+UID:ghSH2G03UzAGaVwxo6ReEFB2@stanza.co
+SUMMARY:Golden Knights vs. Coyotes
+DESCRIPTION:Go Golden Knights!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Jets
+END:VALARM
+DTSTART:20200329T190000Z
+DTEND:20200329T220000Z
+UID:ZMNJxc8LZkFii354CEq7kNbP@stanza.co
+SUMMARY:Golden Knights at Jets
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQ_2?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Bell MTS Place
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Oilers
+END:VALARM
+DTSTART:20200401T010000Z
+DTEND:20200401T040000Z
+UID:ok-R1JY_lRiCDsNTtWvFvCoA@stanza.co
+SUMMARY:Golden Knights at Oilers
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZJ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Place\, Edmonton\, AB\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Flames
+END:VALARM
+DTSTART:20200403T010000Z
+DTEND:20200403T040000Z
+UID:dhbvXtD8a28MdtjmilH_CJIp@stanza.co
+SUMMARY:Golden Knights at Flames
+DESCRIPTION:Go Golden Knights!\n\nBuy tickets here: https://stza.co/~FQZY?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Scotiabank Saddledome\, 555 Saddledome Rise SE\, Calgary\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Golden Knights at Canucks
+END:VALARM
+DTSTART:20200405T020000Z
+DTEND:20200405T050000Z
+UID:sB3c8ktGqei7Q8-WiwWumpBa@stanza.co
+SUMMARY:Golden Knights at Canucks
+DESCRIPTION:Go Golden Knights!\nWatch live on HNIC\n\nBuy tickets here: https://stza.co/~FQZT?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Rogers Arena\, 800 Griffiths Way\, Vancouver\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20190630T200409Z
+CREATED:20190630T200409Z
+LAST-MODIFIED:20190630T200409Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
